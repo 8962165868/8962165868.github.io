@@ -10,7 +10,7 @@ body {
     font-size: 100%;
     background: #fff;
 	font-family: 'Source Sans Pro', sans-serif;
-	animation: bgcolor infinite 20s;
+	
 }
 @keyframes bgcolor{
 	0%{
@@ -43,6 +43,7 @@ body a {
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
+	animation: bgcolor infinite 20s;
 
 }
 html {
