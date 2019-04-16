@@ -12,29 +12,7 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	
 }
-@keyframes bgcolor{
-	0%{
-		background: #ffffff
-	}
-	20%{
-		background: #ecf0f1
-	}
-	40%{
-		background: #bdc3c7
-	}
-	60%{
-		background: #dfe4ea
-	}
-	80%{
-		background: #f1f2f6
-	}
-	100%{
-		background: #dcdde1
-	}
-	
-	
-	
-}
+
 
 body a {
     text-decoration: none;
@@ -43,7 +21,7 @@ body a {
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
-	animation: bgcolor infinite 20s;
+
 
 }
 html {
